@@ -1,0 +1,19 @@
+.first-letter {
+  font-size: 65px;
+  font-weight: 600;
+}
+.new-section  {
+  border-top: 10px solid lightgray;
+}
+.education-logo {
+  width: 60px;
+  height: 60px;
+  display: block;
+}
+
+.education-logo-tk {
+    width: auto;
+    height: 60px;
+    display: block;
+
+}
